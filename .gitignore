@@ -1,0 +1,11 @@
+# KiCad - historique local & sauvegardes
+.history/
+*-backups/
+fp-info-cache
+
+# Fichiers temporaires / exports non sauvegardes
+*-unsaved-*
+*.lck
+
+# Fichiers macOS
+.DS_Store
