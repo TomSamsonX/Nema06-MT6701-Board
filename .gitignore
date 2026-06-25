@@ -7,5 +7,9 @@ fp-info-cache
 *-unsaved-*
 *.lck
 
+# Exports 3D (regenerables depuis le .kicad_pcb)
+*.step
+.step
+
 # Fichiers macOS
 .DS_Store
